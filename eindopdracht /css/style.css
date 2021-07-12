@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img {
+    float: left;
+    max-width:14%
+}
+
+#drum{
+    margin-left: 30px
+}
+
+#piano {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-family: "YEEZY TSTAR";
+}
+
+h2 {
+    padding-top: 745px;
+    font-family: "YEEZY TSTAR";
+    font-size: 33px;
+}
+
+p {
+    font-family: "Nexa Light";
+}
